@@ -1,5 +1,9 @@
 # README
 
+A simple blog application.
+
+Built with ruby 2.5.0p0.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
